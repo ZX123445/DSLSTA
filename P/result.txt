@@ -1,0 +1,4 @@
+Smeasure: 0.867 ;  meanEm: 0.917 ;  maxEm: 0.931 ;  wFmeasure: 0.802 ;  MAE: 0.052 ;  meanFm: 0.835 ;  maxFm: 0.857
+Smeasure: 0.858 ;  meanEm: 0.919 ;  maxEm: 0.935 ;  wFmeasure: 0.745 ;  MAE: 0.031 ;  meanFm: 0.788 ;  maxFm: 0.818
+Smeasure: 0.873 ;  meanEm: 0.923 ;  maxEm: 0.937 ;  wFmeasure: 0.788 ;  MAE: 0.035 ;  meanFm: 0.824 ;  maxFm: 0.848
+Smeasure: 0.873 ;  meanEm: 0.924 ;  maxEm: 0.937 ;  wFmeasure: 0.789 ;  MAE: 0.035 ;  meanFm: 0.825 ;  maxFm: 0.849
